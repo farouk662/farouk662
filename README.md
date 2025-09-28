@@ -1,103 +1,133 @@
 # 👋 Hi, I'm Mohamed Ahmed Farouk
 
-## 💻 Flutter Developer | IoT Enthusiast | Clean Code Advocate
-
-I'm a passionate **Flutter Developer** with expertise in building scalable cross-platform mobile applications for **E-commerce**, **social platforms**, and **smart city solutions**. I specialize in implementing **Clean Architecture** and **SOLID principles** to deliver maintainable, testable, and high-quality codebases.
-
-Beyond mobile development, I have hands-on experience in **IoT integration**, developing applications that connect with smart devices for real-time control and automation using **ESP32** boards and **MQTT protocol**.
+🚀 **Flutter Developer** passionate about building scalable cross-platform mobile applications and integrating IoT solutions with smart devices.
+💡 Experienced in **Clean Architecture, SOLID principles, and multiple state management solutions** to deliver maintainable and testable codebases.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 About Me
 
-### **Mobile Development**
-- **Framework:** Flutter, Dart
-- **State Management:** Bloc (Cubit), Riverpod, Provider, GetX
-- **Architecture:** Clean Architecture, MVVM, MVC
-- **Database:** Firebase Firestore, Hive, Sqflite
-
-### **Backend & APIs**
-- **Services:** Firebase (Auth, Firestore, Storage, FCM), Supabase
-- **API Integration:** RESTful APIs, Dio, HTTP
-- **Real-time:** Firebase Realtime Database, Cloud Messaging
-
-### **IoT & Embedded Systems**
-- **Hardware:** ESP32, Arduino, Sensors
-- **Protocols:** MQTT, WiFi, Bluetooth
-- **Integration:** Real-time device control, Smart automation
-
-### **Development Tools**
-- **Version Control:** Git, GitHub, GitLab
-- **Development:** Android Studio, VS Code
-- **Testing:** Unit Testing, Integration Testing
-- **Other:** Postman, CI/CD, Agile Development
+* 🎓 Bachelor's degree in **Computer Science (Bioinformatics)**, Assiut University (GPA: 3.6).
+* 💼 Currently working at **Smart Cities for Embedded Systems** as a Flutter Developer.
+* 🔌 Strong experience in **IoT integration** (ESP32, MQTT, WiFiIoT).
+* 📱 Skilled in building **E-commerce, Smart City, and Real-time Control** mobile apps.
+* 🌍 Open to collaboration on Flutter & IoT projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🏢 **Al Rabwa - Smart Compound Management**
+* **Languages & Frameworks:** Dart, Flutter, Flet
+* **State Management:** Bloc (Cubit), Riverpod, Provider, GetX
+* **Architecture & Principles:** MVVM, MVC, Clean Architecture, SOLID, OOP
+* **Databases & APIs:** Firebase, Hive, Sqflite, RESTful APIs
+* **Tools & DevOps:** Git, GitHub, CI/CD pipelines
+* **Payments & Notifications:** Stripe, Paymob, PayPal, PayTabs, Lahza, Push Notifications
+* **Other:** UI/UX, Agile Development, Code Review
+
+---
+## 📱 Featured Projects
+
+### 🏢 [Al Rabwa – Smart Compound Management](https://play.google.com/store/apps/details?id=com.smartcities.nar) | [App Store](https://apps.apple.com/us/app/el-rabwa-%D8%A7%D9%84%D8%B1%D8%A8%D9%88%D9%87/id6751453963)
+
+*📲 Available on Google Play & App Store*
+
 IoT-enabled mobile app for smart city solutions, allowing residents to control gates, elevators, and lighting remotely.
-- **Tech Stack:** Flutter, GetX, Firebase FCM, REST APIs, WiFiIoT, Clean Architecture
-- **Features:** Real-time chat, visitor management, push notifications
-- **Platforms:** Google Play, App Store
 
-### 🏗️ **Smart Elevator - IoT Access Control**
-Revolutionary elevator access system replacing traditional cards with secure mobile authentication.
-- **Tech Stack:** Flutter, GetX, Firebase, ESP32, MQTT
-- **Features:** User management, guest access, emergency alerts, admin dashboard
-- **Platform:** Google Play
+**⚙️ Tech Stack:** `Flutter` `GetX` `Firebase FCM` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
 
-### 🕌 **Al-Midhanah - Mosque Minaret Control**
-Automated mosque minaret lighting system synchronized with prayer times.
-- **Tech Stack:** Flutter, Cubit, ESP32, WiFiIoT, Clean Architecture
-- **Features:** Prayer time automation, manual override, multi-mosque management
+**✨ Key Features:**
 
-### ⚽ **Ematch - Sports Field Booking**
-Comprehensive sports facility booking platform with advanced search and reservation features.
-- **Tech Stack:** Flutter, Bloc, Firebase (Auth, Firestore, Storage)
-- **Features:** Field search, price comparison, maps integration, instant booking
-- **Repository:** [GitHub Link](https://github.com/farouk66/ematch)
+* 💬 Real-time chat & notifications
+* 🧾 Visitor invitations & management
+* 🚪 Remote gate & elevator control
+* 🔐 Smart IoT-based access
 
 ---
 
-## 📈 Currently Working On
+### 🛗 [Smart Elevator – IoT-based Access](https://play.google.com/store/apps/details?id=com.smartcities.smartelevators)
 
-- 🔄 **Advanced Flutter UI/UX**: Creating complex, animated user interfaces
-- 🔗 **Backend Integration**: Exploring Supabase and advanced API architectures  
-- 🌐 **IoT Expansion**: Developing more sophisticated smart device integrations
-- 📱 **Cross-Platform Excellence**: Optimizing performance across iOS and Android
+*📲 Available on Google Play*
 
----
+Mobile app that replaces traditional elevator cards/codes with secure mobile access.
 
-## 🏆 Achievements & Certifications
+**⚙️ Tech Stack:** `Flutter` `GetX` `Firebase Push Notifications` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
 
-- 🥇 **Best Graduation Project Award** - ITIDA Digital Jobs Qualification Initiative (2025)
-- 📜 **Flutter Training Program (80 Hours)** - ITIDA (2025)
-- 🎓 **IT Specialist** - AFCMH (2024)
-- 📚 **Flutter Advanced Course: BLoC and MVVM** - Udemy (2023)
+**✨ Key Features:**
 
----
-
-## 📊 GitHub Stats
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farouk66&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farouk66&layout=compact&theme=radical)
+* 🔑 Secure mobile elevator access
+* 👥 User & guest management
+* ⏳ Temporary access codes
+* 🚨 Emergency alerts & admin notifications
 
 ---
 
-## 📫 Let's Connect & Collaborate
+### 🕌 Al-Midhanah – Smart Mosque Minaret Lighting
 
-- 📧 **Email:** [mohamed.ahmed.farouk2001@gmail.com](mailto:mohamed.ahmed.farouk2001@gmail.com)
-- 💼 **LinkedIn:** [mohamed-farouk-180947213](https://linkedin.com/in/mohamed-farouk-180947213)
-- 🐙 **GitHub:** [farouk66](https://github.com/farouk66)
-- 📱 **Phone:** +201090133295
+*🧪 Currently in testing phase, scheduled for release on Google Play*
+
+Automates mosque minaret lighting based on prayer times with ESP32 integration.
+
+**⚙️ Tech Stack:** `Flutter` `Cubit` `Dio` `REST APIs` `WiFiIoT` `Clean Architecture`
+
+**✨ Key Features:**
+
+* 🕌 Automated lighting schedules synced with prayer times
+* 🖥️ Multi-mosque management dashboard
+* 🛠️ Manual override mode for admins
+* ⚡ Energy saving with optimized schedules
 
 ---
 
-⭐️ **"Passionate about creating innovative solutions that bridge the gap between mobile technology and IoT systems. Always eager to learn, build, and contribute to the developer community."**
+### 💡 Finix – Smart Device Control (Exhibition Project)
+
+*🔒 Private project – [Demo APK](https://drive.google.com/file/d/1dsti4odS0GHdaCg9KVWeZI_j3ns2U4Qs/view?usp=drive_link)*
+
+Exhibition app to control custom devices (head, bird, lamp, fan) in real-time via MQTT.
+
+**⚙️ Tech Stack:** `Flutter` `MQTT` `Speech Recognition` `Text-to-Speech`
+
+**✨ Key Features:**
+
+* 🎙️ Voice commands in Arabic & English
+* 🔌 Real-time IoT device control
+* 📟 Interactive device feedback
+* 🎡 Optimized for exhibition demo use
 
 ---
 
-*💡 Open to collaboration on Flutter projects, IoT integrations, and innovative mobile solutions!*
-```
+### ⚽ [Ematch – Sports Field Booking](https://github.com/farouk662/ematch)
+
+*📂 GitHub Repository Available*
+
+Online booking app for sports fields with instant reservation and comparison features.
+
+**⚙️ Tech Stack:** `Flutter` `Bloc` `Firebase (Auth, Firestore, Storage)` `Clean Architecture`
+
+**✨ Key Features:**
+
+* 🔍 Field search & filtering by location and price
+* 🗺️ Maps, images, and contact details
+* ⚡ Instant booking & payment integration
+* 👤 User authentication & profile management
+
+---
+
+## 🏆 Certifications
+
+* 🎖️ Best Graduation Project Award – ITIDA Digital Jobs Qualification Initiative, 2025
+* 📜 Flutter Training Program (80 Hours) – ITIDA Digital Jobs Qualification Initiative, 2025
+* 📜 IT Specialist – AFCMH, 2024
+* 📜 Multiple Flutter & Clean Architecture courses (Udemy, ITI, Aspire)
+
+---
+
+## 📫 Let's Connect!
+
+* 📧 Email: [mohamed.ahmed.farouk2001@gmail.com](mailto:mohamed.ahmed.farouk2001@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/mohamed-farouk-180947213](https://www.linkedin.com/in/mohamed-farouk-180947213/)
+* 💻 GitHub: [github.com/farouk662](https://github.com/farouk662)
+
+---
+
+⭐️ From [Mohamed Ahmed Farouk](https://github.com/farouk662)
