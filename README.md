@@ -34,7 +34,7 @@
 
 IoT-enabled mobile app for smart city solutions, allowing residents to control gates, elevators, and lighting remotely.
 
-**⚙️ Tech Stack:** `Flutter` `GetX` `Firebase FCM` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
+**⚙️ Tech Stack:** `Flutter` `Cubit` `Firebase FCM` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
 
 **✨ Key Features:**
 
@@ -51,7 +51,7 @@ IoT-enabled mobile app for smart city solutions, allowing residents to control g
 
 Mobile app that replaces traditional elevator cards/codes with secure mobile access.
 
-**⚙️ Tech Stack:** `Flutter` `GetX` `Firebase Push Notifications` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
+**⚙️ Tech Stack:** `Flutter` `Cubit` `Firebase Push Notifications` `REST APIs` `WiFiIoT` `Swift bridge (iOS)` `Clean Architecture`
 
 **✨ Key Features:**
 
